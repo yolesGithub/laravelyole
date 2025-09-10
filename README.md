@@ -9,6 +9,7 @@
 
 ## Framework Programming Class Updates
 03/09/2025_22.38.28: Installed Laravel and Herd. Followed the tutorial from the classroom.
+
 10/09/2525_09.11.49: Followed through Net Ninjas Youtube playlist until video 3.
 
 ## About Laravel
